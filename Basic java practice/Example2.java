@@ -13,3 +13,5 @@ class abc2{
 		System.out.println(num);
 	}
 }
+
+// itta chtta sa code?!
